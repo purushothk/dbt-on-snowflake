@@ -3,8 +3,8 @@ tasty_bytes:
   outputs:
     dev:
       type: snowflake
-      account: 'not needed'
-      user: 'not needed'
+      account: 'ni22215.central-india.azure'
+      user: 'PURUSHOTHAMAN'
       role: accountadmin
       database: tasty_bytes_dbt_db
       schema: dev
